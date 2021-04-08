@@ -1,0 +1,14 @@
+.logo img{
+width: 50%;
+height: auto;
+}
+.color-texto{
+    color: white;
+}
+.footer{
+    background-color: teal;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
